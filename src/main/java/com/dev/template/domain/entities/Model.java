@@ -1,4 +1,4 @@
-package com.dev.template.model.domain.entities;
+package com.dev.template.domain.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
