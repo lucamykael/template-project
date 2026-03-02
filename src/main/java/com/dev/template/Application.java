@@ -1,5 +1,3 @@
-package com.dev.template
-
 {BASE_PACKAGE};
 
 import org.springframework.boot.SpringApplication;
