@@ -8,11 +8,11 @@
         <version>4.0.3</version>
         <relativePath/>
     </parent>
-    <groupId>com.dev.template</groupId>
-    <artifactId>model</artifactId>
+    <groupId>${GROUP_ID}</groupId>
+    <artifactId>${ARTIFACT_ID}</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>model</name>
-    <description>model</description>
+    <name>${PROJECT_NAME}</name>
+    <description>${PROJECT_DESCRIPTION}</description>
     <url/>
     <licenses>
         <license/>
