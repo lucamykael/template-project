@@ -12,7 +12,6 @@
     <artifactId>${ARTIFACT_ID}</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>${PROJECT_NAME}</name>
-    <description>${PROJECT_DESCRIPTION}</description>
     <url/>
     <licenses>
         <license/>
